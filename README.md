@@ -1,19 +1,13 @@
-<<<<<<< HEAD
-# Marketing-Webpage
-The mock-up of this webpage in this project is dedicated for a marketing and web services agency or company, Horison, and demonstrates the importance or accessibility and semantic HTML.
-=======
-## Module 1 Challenge Assignment
 
-## Completed Mock-Up
+## Marketing-Webpage
 
 The mock-up of this webpage in this project is dedicated for a marketing and web services agency or company, Horison, and demonstrates the importance or accessibility and semantic HTML.
 
+The following animation demonstrates the application functionality:
 ![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./assets/images/01-html-css-git-homework-demo.png)
 
 > **Note**: This layout is designed for desktop viewing, so you may notice that some of the elements don't look like the mock-up at a resolution smaller than 768px. Eventually you'll learn how to make elements responsive so that your web application is optimized for any screen size.
 
-
-## Project Requirements
 
 ## User Story
 
@@ -38,4 +32,3 @@ WHEN I view the heading attributes
 WHEN I view the title element
 ✔️ THEN I find a concise, descriptive title
 ```
->>>>>>> 30932c7a4bde5669fd66f663bf47ad63281e9722
